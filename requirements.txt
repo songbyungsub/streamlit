@@ -172,5 +172,4 @@ XlsxWriter==3.0.8
 xlwings==0.30.9
 yahoo-finance==1.4.0
 yarl==1.9.4
-yfinance==0.2.37
 zipp==3.15.0
